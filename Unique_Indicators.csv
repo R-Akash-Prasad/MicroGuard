@@ -1,0 +1,63 @@
+INDICATOR,INDICATOR_LABEL
+WB_FSI_BM_KLT_DINV_CD_WD,"Foreign direct investment, net outflows (BoP, current US$)"
+WB_FSI_BM_KLT_DINV_WD_GD_ZS,"Foreign direct investment, net outflows (% of GDP)"
+WB_FSI_BM_TRF_PWKR_CD_DT,"Personal remittances, paid (current US$)"
+WB_FSI_BN_KLT_DINV_CD,"Foreign direct investment, net (BoP, current US$)"
+WB_FSI_BN_KLT_PTXL_CD,"Portfolio Investment, net (BoP, current US$)"
+WB_FSI_BX_KLT_DINV_CD_WD,"Foreign direct investment, net inflows (BoP, current US$)"
+WB_FSI_BX_PEF_TOTL_CD_WD,"Portfolio equity, net inflows (BoP, current US$)"
+WB_FSI_BX_TRF_PWKR_CD,"Personal transfers, receipts (BoP, current US$)"
+WB_FSI_BX_TRF_PWKR_DT_GD_ZS,"Personal remittances, received (% of GDP)"
+WB_FSI_CM_MKT_INDX_ZG,S&P Global Equity Indices (annual % change)
+WB_FSI_CM_MKT_LCAP_CD,Market capitalization of listed domestic companies (current US$)
+WB_FSI_CM_MKT_LCAP_GD_ZS,Market capitalization of listed domestic companies (% of GDP)
+WB_FSI_CM_MKT_LDOM_NO,"Listed domestic companies, total"
+WB_FSI_CM_MKT_TRAD_CD,"Stocks traded, total value (current US$)"
+WB_FSI_CM_MKT_TRAD_GD_ZS,"Stocks traded, total value (% of GDP)"
+WB_FSI_CM_MKT_TRNR,"Stocks traded, turnover ratio of domestic shares (%)"
+WB_FSI_DT_NFL_BOND_CD,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)"
+WB_FSI_FB_AST_NPER_ZS,Bank nonperforming loans to total gross loans (%)
+WB_FSI_FB_ATM_TOTL_P5,"Automated teller machines (ATMs) (per 100,000 adults)"
+WB_FSI_FB_BNK_CAPA_ZS,Bank capital to assets ratio (%)
+WB_FSI_FB_CBK_BRCH_P5,"Commercial bank branches (per 100,000 adults)"
+WB_FSI_FB_CBK_BRWR_P3,"Borrowers from commercial banks (per 1,000 adults)"
+WB_FSI_FB_CBK_DPTR_P3,"Depositors with commercial banks (per 1,000 adults)"
+WB_FSI_FD_AST_PRVT_GD_ZS,Domestic credit to private sector by banks (% of GDP)
+WB_FSI_FD_RES_LIQU_AS_ZS,Bank liquid reserves to bank assets ratio (%)
+WB_FSI_FI_RES_XGLD_CD,Total reserves minus gold (current US$)
+WB_FSI_FM_AST_CGOV_ZG_M3,Claims on central government (annual growth as % of broad money)
+WB_FSI_FM_AST_DOMO_ZG_M3,Claims on other sectors of the domestic economy (annual growth as % of broad money)
+WB_FSI_FM_AST_DOMS_CN,Net domestic credit (current LCU)
+WB_FSI_FM_AST_NFRG_CN,Net foreign assets (current LCU)
+WB_FSI_FM_AST_PRVT_GD_ZS,Monetary Sector credit to private sector (% GDP)
+WB_FSI_FM_AST_PRVT_ZG_M3,Claims on private sector (annual growth as % of broad money)
+WB_FSI_FM_LBL_BMNY_CN,Broad money (current LCU)
+WB_FSI_FM_LBL_BMNY_GD_ZS,Broad money (% of GDP)
+WB_FSI_FM_LBL_BMNY_IR_ZS,Broad money to total reserves ratio
+WB_FSI_FM_LBL_BMNY_ZG,Broad money growth (annual %)
+WB_FSI_FP_CPI_TOTL,Consumer price index (2010 = 100)
+WB_FSI_FP_CPI_TOTL_ZG,"Inflation, consumer prices (annual %)"
+WB_FSI_FP_WPI_TOTL,Wholesale price index (2010 = 100)
+WB_FSI_FR_INR_DPST,Deposit interest rate (%)
+WB_FSI_FR_INR_LEND,Lending interest rate (%)
+WB_FSI_FR_INR_LNDP,"Interest rate spread (lending rate minus deposit rate, %)"
+WB_FSI_FR_INR_RINR,Real interest rate (%)
+WB_FSI_FR_INR_RISK,"Risk premium on lending (lending rate minus treasury bill rate, %)"
+WB_FSI_FS_AST_CGOV_GD_ZS,"Claims on central government, etc. (% GDP)"
+WB_FSI_FS_AST_DOMO_GD_ZS,Claims on other sectors of the domestic economy (% of GDP)
+WB_FSI_FS_AST_DOMS_GD_ZS,Domestic credit provided by financial sector (% of GDP)
+WB_FSI_FS_AST_PRVT_GD_ZS,Domestic credit to private sector (% of GDP)
+WB_FSI_IC_CRD_INFO_XQ,Depth of credit information index (0=low to 8=high)
+WB_FSI_IC_CRD_PRVT_ZS,Private credit bureau coverage (% of adults)
+WB_FSI_IC_CRD_PUBL_ZS,Public credit registry coverage (% of adults)
+WB_FSI_IC_LGL_CRED_XQ,Strength of legal rights index (0=weak to 12=strong)
+WB_FSI_NY_GDP_DEFL_KD_ZG_AD,"Inflation, GDP deflator: linked series (annual %)"
+WB_FSI_NY_GDP_DEFL_ZS_AD,GDP deflator: linked series (base year varies by country)
+WB_FSI_PA_NUS_ATLS,DEC alternative conversion factor (LCU per US$)
+WB_FSI_PA_NUS_FCRF,"Official exchange rate (LCU per US$, period average)"
+WB_FSI_PX_REX_REER,Real effective exchange rate index (2010 = 100)
+WB_FSI_SI_RMT_COST_IB_ZS,Average transaction cost of sending remittances to a specific country (%)
+WB_FSI_SI_RMT_COST_OB_ZS,Average transaction cost of sending remittances from a specific country (%)
+WB_FSI_SM_POP_NETM,Net migration
+WB_FSI_SM_POP_TOTL,"International migrant stock, total"
+WB_FSI_SM_POP_TOTL_ZS,International migrant stock (% of population)

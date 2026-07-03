@@ -1,0 +1,21 @@
+Country_Code,Country_Name,Crisis_Probability_2025,Risk_Level
+EUU,European Union,89.15,High
+JPN,Japan,86.63,High
+FRA,France,84.33,High
+MEX,Mexico,80.56,High
+IDN,Indonesia,77.05,High
+RUS,Russian Federation,76.81,High
+GBR,United Kingdom,71.55,High
+USA,United States,65.62,High
+ITA,Italy,64.51,High
+AUS,Australia,61.21,High
+SAU,Saudi Arabia,60.51,High
+TUR,Turkiye,47.43,Medium
+DEU,Germany,43.65,Medium
+IND,India,38.97,Medium
+BRA,Brazil,19.78,Low
+CHN,China,18.69,Low
+CAN,Canada,14.49,Low
+KOR,"Korea, Rep.",14.28,Low
+ZAF,South Africa,12.13,Low
+ARG,Argentina,11.51,Low
